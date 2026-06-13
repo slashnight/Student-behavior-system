@@ -7,7 +7,7 @@ The Student Behavior Tracker (SBT) is a full-stack web application designed for 
 Below is the comprehensive folder structure of the project. Note that the presentation file (`(FEDF) presentation.pptx`) has been explicitly excluded from this structural map.
 
 ```text
-123@123/
+Student behaviour traking system codebase // project name is SBT for this project
 ├── .env                  # Configuration: Environment variables and API keys
 ├── .env.example          # Configuration: Example structure for .env variables
 ├── .gitignore            # Git: Excludes node_modules, .env, and local data
